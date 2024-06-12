@@ -19,9 +19,6 @@ Excecution order:
 
 ![Screenshot 2024-04-13 230227](https://github.com/AnjaliiK/Hand-Gesture-Recognition/assets/79195160/9ea4e138-f62a-4965-a9ea-82c48437b134)
 
-![Screenshot 2024-04-13 222223](https://github.com/AnjaliiK/Hand-Gesture-Recognition/assets/79195160/b7f46947-1f16-4f37-8889-8c944849e09f)
-
-
 ![out](https://github.com/AnjaliiK/Hand-Gesture-Recognition/assets/79195160/1679a083-2fc4-4d8c-9ac3-0c5b201f480c)
 
 
